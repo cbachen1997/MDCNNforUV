@@ -1,11 +1,4 @@
-'''
-Author: your name
-Date: 2021-06-10 18:48:37
-LastEditTime: 2021-06-10 18:59:39
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
-FilePath: \h:\UV\UV-MDCNN\backbone.py
-'''
+
 from __future__ import print_function, division
 import tensorflow as tf
 
